@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <title>imageDemo.html</title>
+  <meta charset = "UTF-8" />
+</head>
+<body>
+  <h1>Image Demo</h1>
+  <p>
+    <img src = "BrunnenVillaSiemens.jpg"
+         alt = "Bild eines Brunnens in der Villa Siemens" />
+  </p>
+  <h2>Bild eines Brunnens in der Villa Siemens</h2>
+  <p>
+    Vielleicht ein paar Hintergrundinformationen zu diesem Brunnen.
+  </p>
+</body>
+</html>
